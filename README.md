@@ -8,8 +8,7 @@
 </li>
 <li> 📫 My Email: Cheraghi.2007@yahoo.com
 </li>
-<li> 😀️ My other websites :
-https://bazino1.ir 
-https://terminall.ml 
-http://codeby.ga
+<li> 😀️ My other websites :<br />https://bazino1.ir <br />
+https://terminall.ml <br />
+http://codeby.ga <br />
 </li>
