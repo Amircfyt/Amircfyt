@@ -2,8 +2,6 @@
 </li>
 <li>👀 I am very interested in web programming and development
 </li>
-<li>🌱 I love js and php languages
-</li>
 <li>💞️ My official website is http://cheraghiyt.ga 
 </li>
 <li> 📫 My Email: Cheraghi.2007@yahoo.com
