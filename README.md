@@ -1,12 +1,14 @@
-<li>👋 Hi, I’m amir Hossein cheraghi 
-</li>
-<li>👀 I am very interested in web programming and development
-</li>
-<li>💞️ My official website is http://cheraghiyt.ga 
-</li>
-<li> 📫 My Email: Cheraghi.2007@yahoo.com
-</li>
-<li> 😀️ My other websites :<br />https://bazino1.ir <br />
-https://terminall.ml <br />
-http://codeby.ga <br />
+<center><h2> Hi, I’m amir Hossein cheraghi </h2>
+<p>
+<b>
+I am very interested in web programming and development
+</b>
+<br />
+<br />
+ <p>My website: http://cheraghiyt.ga 
+<br /> My Email: <a href="mailto:Cheraghi.2007@outlook.com">Cheraghi.2007@outlook.com</a>
+
+<li> 😀️ My other websites :<br /><li> https://bazino1.ir <br />
+<li> https://terminall.ml <br />
+<li> http://codeby.ga <br />
 </li>
