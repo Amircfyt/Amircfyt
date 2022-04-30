@@ -9,7 +9,7 @@ I am very interested in web programming and development
 <br /> My Email: <a href="mailto:Cheraghi.2007@outlook.com">Cheraghi.2007@outlook.com</a>
 
 <b> 😀️ My other websites :</b>
-<li> https://bazino1.ir <br />
 <li> https://terminall.ml <br />
+<li> https://mycf.ga <br />
 <li> http://codeby.ga <br />
 </li>
