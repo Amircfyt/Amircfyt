@@ -12,6 +12,6 @@ I am very interested in web programming and development
 <li> https://terminall.ml <br />
 <li> https://mycf.ga <br />
 <li> http://codeby.ga <br />
-<b> 😀️ My linkedin pade:</b>
+<b> 😀️ My linkedin page:</b>
 <li>https://www.linkedin.com/in/amir-cheraghi-398a7723a
 </li>
