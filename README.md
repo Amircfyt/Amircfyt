@@ -1,4 +1,4 @@
-<center><h2> Hi, I’m amir Hossein cheraghi </h2>
+<center><h2>I’m amir Hossein cheraghi </h2>
 <p>
 <b>
 I am very interested in web programming and development
@@ -8,10 +8,11 @@ I am very interested in web programming and development
  <p>My website: http://cheraghiyt.ga 
 <br /> My Email: <a href="mailto:Cheraghi.2007@outlook.com">Cheraghi.2007@outlook.com</a>
 
-<b> 😀️ My other websites :</b>
+<center><h3>my websites:</center></h3>
 <li> https://terminall.ml <br />
 <li> https://mycf.ga <br />
 <li> http://codeby.ga <br />
-<b> 😀️ My linkedin page:</b>
+<center><h3> 😀️ My linkedin page:
+</center></h3>
 <li>https://www.linkedin.com/in/amir-cheraghi-398a7723a
 </li>
