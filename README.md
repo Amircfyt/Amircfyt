@@ -15,6 +15,7 @@ https://www.linkedin.com/mwlite/in/amir-cheraghi-398a7723a
 <p align="left">Total visits:</p>
 <img align="center" src="https://profile-counter.glitch.me/pamellafernandes/count.svg" />
 </p>
-</details>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amircfyt&" alt="valentinefernandes" /></p>
+<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amircfyt&theme=github" /></p></details>
 
 
