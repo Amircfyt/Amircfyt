@@ -9,6 +9,7 @@ https://www.linkedin.com/mwlite/in/amir-cheraghi-398a7723a
   <summary>click me!</summary>
   <p align="center"></br>
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=amircfyt&row=2&column=3" />
+<img width="600em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amircfyt&layout=compact&langs_count=999&include_all_commits=true&hide_progress=true&hide_border=true&theme=radical&hide=">
 <p align="left">Total visits:</p>
 <img align="center" src="https://profile-counter.glitch.me/pamellafernandes/count.svg" />
 
